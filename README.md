@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-api/top-langs?username=lightcode22
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcode22)](https://github.com/**anuraghazra**/github-readme-stats)
 
 <!--
 **lightcode22/lightcode22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
